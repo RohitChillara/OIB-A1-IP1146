@@ -10,6 +10,7 @@ The projects which I have done for the internship are:
 This system is capable of storing the information of the passengers who have a booking. This helps them to keep all of their booking details at one place which makes it easier to manage and access.
 For this I have used the concepts of Java JDBC and MySQL.
 **MySQL-**This software was used to create a database where passenger information can be stored, managed and accessed.
+
 **JDBC(Java Database connectivity)-**This helped to automate the query process by connecting the java program to the SQL server.
 The pre written java queries are made in a way which suffice the user requirements and process them to the Database.
 Significance of the project:

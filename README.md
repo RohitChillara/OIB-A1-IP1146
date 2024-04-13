@@ -20,7 +20,10 @@ That process is taken care by the project.
 
 2.Guess The Number:
 This is a basic project where the user has to enter a number ranging from 1 to 100, and computer picks up a random number between the same range. If both the input and the random number by computer match the user scores a point.
+
 Features:
+
 1.User can pick the number of attempts he wishes to play.
+
 2.The program tells if the number guessed was higher or lower than the random number.
 3.Score is displayed at the end.

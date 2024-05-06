@@ -28,7 +28,9 @@ Features:
 2.The program tells if the number guessed was higher or lower than the random number.
 3.Score is displayed at the end.
 
-3.ATMInterface System:
+
+
+**3.ATMInterface System**:
 This is program showcases the basic functionalites of ATM Interface through JDBC and Java programming.
 Tools Used:
 **MySQL:** MySQL provides database management services through which the user data is stored,managed and manipulated safely without casuing any redundancies.

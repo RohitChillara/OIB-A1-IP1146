@@ -34,7 +34,11 @@ Features:
 This is program showcases the basic functionalites of ATM Interface through JDBC and Java programming.
 Tools Used:
 **MySQL:** MySQL provides database management services through which the user data is stored,managed and manipulated safely without casuing any redundancies.
+
+
 **JDBC:** Java Database Connectivity tool helps in connecting the MySQL server to the java program enabling a smoother execution of tasks since user enters data in their natural english and the java program converts it into a SQL query.
+
+
 Features:
 1.User Authentication
 2.Withdraw

@@ -40,7 +40,8 @@ Tools Used:
 
 
 Features:
-1.User Authentication
-2.Withdraw
-3.Deposit
-4.Transfer
+1.User Authentication.\n
+2.Withdraw.\n
+3.Deposit.\n
+4.Transfer.\n
+5.Account Details(Last Transaction History)
